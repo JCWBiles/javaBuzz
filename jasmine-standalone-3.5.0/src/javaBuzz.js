@@ -1,4 +1,4 @@
-var Javabuzz = function(){}
+var Javabuzz = function() {}
 
 Javabuzz.prototype.isDivisibleByThree = function(number) {
   return this._isDivisibleBy(number, 3);

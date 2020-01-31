@@ -1,6 +1,6 @@
 describe('Javabuzz', function () {
   var javabuzz;
-  beforeEach(function(){
+  beforeEach(function() {
     javabuzz = new Javabuzz();
   });
   describe('knows when a number is', function() {
